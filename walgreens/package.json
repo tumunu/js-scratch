@@ -1,0 +1,19 @@
+{
+  "name": "walgreens",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": "TCP",
+  "dependencies": {
+    "easyimage": "2.1.0",
+    "node-libcurl": "2.1.1",
+    "phpdate-js": "^1.0.2",
+    "image-type": "2.1.0",
+    "read-chunk": "2.0.0"
+  }
+}
