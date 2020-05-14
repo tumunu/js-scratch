@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "license": "MIT",
   "author": "TCP",
@@ -15,5 +15,8 @@
     "phpdate-js": "^1.0.2",
     "image-type": "2.1.0",
     "read-chunk": "2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.8.2"
   }
 }
